@@ -61,7 +61,7 @@ function AgendamentoNavigator() {
       <AgendamentoStack.Screen
         name="AgendamentoScreen"
         component={Agendamento}
-        options={{ headerTitle: 'ArqRio - Agendamento de Missas Online' }}
+        options={{ headerTitle: 'ArqRio - Agendamento de Missas' }}
       />
     </AgendamentoStack.Navigator>
   );
