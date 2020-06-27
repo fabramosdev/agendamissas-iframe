@@ -6,19 +6,13 @@ export default {
     screens: {
       Root: {
         screens: {
-          TabOne: {
+          Agendamento: {
             screens: {
-              TabOneScreen: 'one',
-            },
-          },
-          TabTwo: {
-            screens: {
-              TabTwoScreen: 'two',
+              Agendamento: 'agendamento',
             },
           },
         },
       },
-      NotFound: '*',
     },
   },
 };
